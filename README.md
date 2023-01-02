@@ -4,7 +4,7 @@
 
 <h3 align="left">Aspiring software developer</h3>
   
-🌱 I’m currently learning **Rust**  
+🌱 Currently learning **Rust**  
  
 ---
 
